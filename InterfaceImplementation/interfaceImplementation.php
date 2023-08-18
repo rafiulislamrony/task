@@ -61,4 +61,6 @@ $password = "";
 $databaseLogger = new DatabaseLogger($host, $dbname, $username, $password);
 $databaseLogger->log("Rafiul from DatabaseLogger", "12345"); 
 
+ 
+
 ?>
